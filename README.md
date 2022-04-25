@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalarconYarz
+- 👋 Hola Soy @KalarconYarz
 - 👀 Intereseda en aprender constantemente sobre lenguajes de programación como Front-End...
 - 🌱 Actualmente estoy aprendiendo a crear una herramienta de línea de comando (CLI) así la creación de unalibrería (o biblioteca - library) en JavaScript.
 - 💞️ Me gustaria colaborar en diferentes proyectos donde podamos interactuar diferentes culturas
