@@ -2,8 +2,8 @@
 ![Profile views](https://gpvc.arturio.dev/KalarconYarz)
 page_id=page.id&left_color=green&right_color=red)
 
-- 👋 Hola Soy @KalarconYarz estudiante Front-End Developer con conocimientos en CSS, Javascript. 
-<h2 align='left'><i>Languages ​​and tools</i></h2>
+- 👋 Hola Soy @KalarconYarz estudiante Front-End Developer con conocimientos en
+- 
 <table width="100" align="center">
 <tr>
     <td align='center' width="190">
@@ -18,52 +18,26 @@ page_id=page.id&left_color=green&right_color=red)
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
-    </td>
+   
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/sass.svg" width="60">
-    </td>
+    
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
-    </td>
+    
+  
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
 </tr>
 <tr>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
-    </td>
-	<td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
-    </td>
-	<td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
-    </td>
-	<td align='center'>
+   <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
-	<td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
-    </td>
+	
 </tr>
-<!--<tr>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
-    </td>
-<td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60">
-    </td>
-</tr>-->
+
 </table>
 - 👀 Interesada en aprender constantemente sobre lenguajes de programación como Front-End 
 - 🌱 Actualmente estoy creando una app para una hamburgueseria en donde los meseros, administador y chef pueden tomar perdidos, verificarlos y checkear los preparados todo con ayuda de la libreria React
