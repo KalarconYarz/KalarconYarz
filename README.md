@@ -21,7 +21,6 @@ page_id=page.id&left_color=green&right_color=red)
    
 </tr>
 <tr>
-    
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
