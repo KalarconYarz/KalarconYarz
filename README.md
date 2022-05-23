@@ -1,6 +1,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/KalarconYarz)
-page_id=page.id&left_color=green&right_color=red)
+
 
 - 👋 Hola Soy @KalarconYarz estudiante Front-End Developer con conocimientos en
 - 
@@ -27,13 +27,10 @@ page_id=page.id&left_color=green&right_color=red)
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-<tr>
    <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
-	
 </tr>
-
 </table>
 - 👀 Interesada en aprender constantemente sobre lenguajes de programación como Front-End 
 - 🌱 Actualmente estoy creando una app para una hamburgueseria en donde los meseros, administador y chef pueden tomar perdidos, verificarlos y checkear los preparados todo con ayuda de la libreria React
