@@ -18,6 +18,9 @@
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
+   <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    </td> 
    
 </tr>
 <tr>
@@ -35,7 +38,7 @@
 
 
 - 👀 Interesada en aprender constantemente sobre lenguajes de programación como Front-End 
-- 🌱 Actualmente estoy creando una app para una hamburgueseria en donde los meseros, administador y chef pueden tomar perdidos, verificarlos y checkear los preparados todo con ayuda de la libreria React
+- 🌱 Actualmente estoy creando una app para elaborar un tablero de notas, en donde el usuario puede crear, editar y eliminar sus notas para organizar sus tareas diarias, esto con la ayuda de React
 - 💞️ Me gustaria colaborar en diferentes proyectos donde podamos interactuar diferentes culturas
 - 📫 Me puedes contactar en mi perfil de Linkedin www.linkedin.com/in/karenalarconcv
 
