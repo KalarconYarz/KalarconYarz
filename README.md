@@ -18,10 +18,10 @@
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
-   <td align='center' width="190">
+   <td align='center' width="160">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     </td> 
-   
+       
 </tr>
 <tr>
     <td align='center'>
@@ -33,6 +33,10 @@
    <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="60">
+    </td>
+    
 </tr>
 </table>
 
