@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/KalarconYarz)
 
 
-- 👋 Hola Soy @KalarconYarz estudiante Front-End Developer con conocimientos en
+- 👋 Hola Soy @KalarconYarz Front-End Developer con conocimientos en
 - 
 <table width="100" align="center">
 <tr>
