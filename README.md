@@ -1,6 +1,4 @@
 
-![Profile views](https://gpvc.arturio.dev/KalarconYarz)
-
 
 - 👋 Hola Soy @KalarconYarz Front-End Developer, he aprendido algunos lenguajes de programación:
 
